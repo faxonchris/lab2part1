@@ -7,3 +7,4 @@ https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/02.Git/Lab-Git.
 * ![gitk](gitk.png)
 * ![gitkall](gitkall.png)
 * ![gitlog](gitlog.png)
+* https://github.com/faxonchris/Spoon-Knife
